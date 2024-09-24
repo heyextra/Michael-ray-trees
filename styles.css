@@ -12,7 +12,7 @@ body,p{
     text-align: center;
 }
 
-#wrapper{
+.wrapper{
     display: flex;
     flex-flow: column;
     align-items: center;
